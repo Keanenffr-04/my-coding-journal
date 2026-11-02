@@ -1,0 +1,28 @@
+# 2026-11-02
+
+Today, I learned that coding requires consistent practice.
+
+## Git Commands
+
+I learned the following Git commands:
+
+- git status - See what changed.
+- git add    - Select all changes.
+- git commit -m "Add journal entry" - Save them with a note.
+- git push - Upload them to GitHub.
+
+## Workflow
+
+**Check → Select → Save → Upload**
+
+## Pulling Changes from GitHub
+
+I also learned that if GitHub contains changes that I don't have locally (for example, changes made directly on GitHub), I must pull those changes before I can push my own changes.
+
+git commit -m "Add journal entry"
+git pull --rebase origin main
+git add .
+git push
+
+SQL
+1. Learning the intro to SQL
