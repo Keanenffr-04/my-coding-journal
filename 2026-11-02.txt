@@ -26,5 +26,10 @@ git commit -m "Add journal entry"
 git pull --rebase origin main
 git push
 
+**Get into PC File → Check → Select → Save → Get Changes from Cloud to PC → Upload Changes from PC to Cloud**
+
+GitHub
+1. Learned about branches and how they work.
+
 SQL
 1. Learning the intro to SQL
